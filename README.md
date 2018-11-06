@@ -3,7 +3,8 @@ Neuroglancer is a WebGL-based viewer for volumetric data.  It is capable of disp
 This is not an official Google product.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/2npw99gr2x7kh763?svg=true)](https://ci.appveyor.com/project/jbms/neuroglancer)
+[![Travis CI Build Status](https://travis-ci.org/google/neuroglancer.svg?branch=master)](https://travis-ci.org/google/neuroglancer)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/2npw99gr2x7kh763?svg=true)](https://ci.appveyor.com/project/jbms/neuroglancer)
 
 # Examples
 
