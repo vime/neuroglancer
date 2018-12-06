@@ -47,6 +47,7 @@ const DEFAULT_DATA_SOURCES = exports.DEFAULT_DATA_SOURCES = [
   'neuroglancer/datasource/openconnectome',
   'neuroglancer/datasource/precomputed',
   'neuroglancer/datasource/nifti',
+  'neuroglancer/datasource/vime',
   {source: 'neuroglancer/datasource/vtk', register: null},
   {source: 'neuroglancer/datasource/csv', register: null},
 ];

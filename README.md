@@ -30,6 +30,7 @@ Neuroglancer itself is purely a client-side program, but it depends on data bein
 - [Precomputed chunk/mesh fragments exposed over HTTP](src/neuroglancer/datasource/precomputed)
 - Single NIfTI files <https://www.nitrc.org/projects/nifti>
 - [Python in-memory volumes](python/README.md) (with automatic mesh generation)
+- [Volume Image Environment - VIME](https://github.com/vime)
 
 # Supported browsers
 
